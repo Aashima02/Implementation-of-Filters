@@ -125,7 +125,7 @@ plt.axis("off")
 ![output](./opt3.png)
 </br>
 
-#### iv) Using Median Filter
+#### iv) Using Gaussian Filter
 ![output](./opt4.png)
 </br>
 </br>
